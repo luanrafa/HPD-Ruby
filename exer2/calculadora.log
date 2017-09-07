@@ -1,0 +1,15 @@
+# Logfile created on 2017-08-05 15:56:29 -0300 by logger.rb/v1.2.7
+I, [2017-08-05T15:56:29.469839 #2170]  INFO -- : Iniciou calculadora
+I, [2017-08-05T15:56:29.470256 #2170]  INFO -- : Execuntado método - soma, Parâmetros - 1 e 2
+I, [2017-08-05T15:56:29.470492 #2170]  INFO -- : Execuntado método - soma, Parâmetros - 2 e -2
+I, [2017-08-05T15:56:29.470672 #2170]  INFO -- : Execuntado método - soma, Parâmetros - 3.3 e 5.5
+I, [2017-08-05T15:56:29.471148 #2170]  INFO -- : Execuntado método - sub, Parâmetros - 2 e 6
+I, [2017-08-05T15:56:29.471343 #2170]  INFO -- : Execuntado método - sub, Parâmetros - 8 e 2
+I, [2017-08-05T15:56:29.471582 #2170]  INFO -- : Execuntado método - sub, Parâmetros - 11.1 e 6.3
+I, [2017-08-05T15:56:29.472026 #2170]  INFO -- : Execuntado método - mult, Parâmetros - 1 e 5
+I, [2017-08-05T15:56:29.472245 #2170]  INFO -- : Execuntado método - mult, Parâmetros - 5 e -8
+I, [2017-08-05T15:56:29.472452 #2170]  INFO -- : Execuntado método - mult, Parâmetros - 6.8 e 10.1
+I, [2017-08-05T15:56:29.472895 #2170]  INFO -- : Execuntado método - div, Parâmetros - 0 e 5
+I, [2017-08-05T15:56:29.473093 #2170]  INFO -- : Execuntado método - div, Parâmetros - 50 e 20
+I, [2017-08-05T15:56:29.473289 #2170]  INFO -- : Execuntado método - div, Parâmetros - 10 e 0
+E, [2017-08-05T15:56:29.473521 #2170] ERROR -- : 10 / 0 = ERRO - O denominador não pode ser zero.

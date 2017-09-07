@@ -1,0 +1,38 @@
+# Logfile created on 2017-08-06 18:38:25 -0300 by logger.rb/v1.2.7
+I, [2017-08-06T18:38:25.694563 #6330]  INFO -- : IP reservado - 10.1.10.1
+ para o usuário - luan@asw.com.br
+I, [2017-08-06T18:38:25.694633 #6330]  INFO -- : Solicitaod pelo usuário - luan@asw.com.br
+I, [2017-09-07T18:16:32.286875 #1533]  INFO -- : IP reservado - 10.1.10.2
+
+I, [2017-09-07T18:16:32.286961 #1533]  INFO -- : Solicitaod pelo usuário - asd@sad.com.br
+E, [2017-09-07T18:17:39.691299 #1571] ERROR -- : Todos os ips já estão reservados.
+I, [2017-09-07T18:25:33.472579 #1722]  INFO -- : IP reservado - 10.1.10.3
+
+I, [2017-09-07T18:25:33.472630 #1722]  INFO -- : Solicitaod pelo usuário - asd@sad.com.be
+I, [2017-09-07T18:26:24.830745 #1736]  INFO -- : IP reservado - 10.1.10.4
+
+I, [2017-09-07T18:26:24.830794 #1736]  INFO -- : Solicitaod pelo usuário - asd@sad.com
+I, [2017-09-07T18:26:26.693265 #1738]  INFO -- : IP reservado - 10.1.10.5
+
+I, [2017-09-07T18:26:26.693321 #1738]  INFO -- : Solicitaod pelo usuário - asd@sad.comd
+I, [2017-09-07T18:26:32.995554 #1740]  INFO -- : IP reservado - 10.1.10.9
+
+I, [2017-09-07T18:26:32.995601 #1740]  INFO -- : Solicitaod pelo usuário - asd@sad.comffe
+E, [2017-09-07T18:41:02.062586 #1872] ERROR -- : Email vazio
+I, [2017-09-07T18:41:02.063031 #1872]  INFO -- : IP reservado - 10.1.10.20
+
+I, [2017-09-07T18:41:02.063064 #1872]  INFO -- : Solicitaod pelo usuário - 
+E, [2017-09-07T18:41:08.281563 #1874] ERROR -- : Email vazio
+I, [2017-09-07T18:41:08.282003 #1874]  INFO -- : IP reservado - 10.1.10.22
+
+I, [2017-09-07T18:41:08.282033 #1874]  INFO -- : Solicitaod pelo usuário - 
+E, [2017-09-07T18:42:53.603002 #1930] ERROR -- : Email vazio
+I, [2017-09-07T18:42:53.603442 #1930]  INFO -- : IP reservado - 10.1.10.57
+
+I, [2017-09-07T18:42:53.603471 #1930]  INFO -- : Solicitaod pelo usuário - 
+E, [2017-09-07T18:44:28.753168 #1976] ERROR -- : Todos os ips já estão reservados.
+E, [2017-09-07T18:44:31.196865 #1978] ERROR -- : Todos os ips já estão reservados.
+E, [2017-09-07T18:44:32.062966 #1980] ERROR -- : Todos os ips já estão reservados.
+I, [2017-09-07T18:45:06.557806 #1991]  INFO -- : IP reservado - 10.1.10.1
+
+I, [2017-09-07T18:45:06.557863 #1991]  INFO -- : Solicitaod pelo usuário - asd@asd.com
